@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ** Creating End to End web applications **
 - 🌱 I’m currently learning ** front-end ** 
-- 💬 Ask me about ** Html and css, js **
+- 💬 Ask me about ** Html and Css, Js, React.js **
 - 📫 How to reach me: ** phanindragadireddy@gmail.com ** 
 
 
